@@ -16,4 +16,5 @@ dependencyResolutionManagement {
 rootProject.name = "App with text composables"
 include(":app")
 include(":app")
+include(":app")
  

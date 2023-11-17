@@ -4,4 +4,6 @@
     <style name="Theme.AppWithTextComposables" parent="android:Theme.Material.Light.NoActionBar" />
 
     <style name="Theme.HappyBirthday" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.ComposeArticle" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
